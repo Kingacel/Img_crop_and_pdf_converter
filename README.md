@@ -35,6 +35,17 @@ The project is designed to be simple, responsive, privacy-focused, and easy to u
 
 ---
 
+
+You can use **IMP Convetor locally on your phone without a server**.
+
+1. **Download the HTML file** from this repository.
+2. Open the downloaded `.html` file using a web browser.
+3. The application will run directly on your phone.
+4. You can process your images and PDFs locally.
+
+> 💡 **No internet connection or backend server is required after downloading the HTML file**, as long as all required resources are included in the file.
+
+
 ## ✨ Features
 
 ### 🖼️ Images to PDF
@@ -183,17 +194,6 @@ Reduce image file size while maintaining reasonable visual quality.
 - Use compressed result as source
 
 ---
-
-
-You can use **IMP Convetor locally on your phone without a server**.
-
-1. **Download the HTML file** from this repository.
-2. Open the downloaded `.html` file using a web browser.
-3. The application will run directly on your phone.
-4. You can process your images and PDFs locally.
-
-> 💡 **No internet connection or backend server is required after downloading the HTML file**, as long as all required resources are included in the file.
-
 
 
 ### 📏 Custom Image Size
