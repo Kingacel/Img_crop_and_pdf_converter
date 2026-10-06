@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📄 IMP Convetor
+# 📄 IM&P Convetor
 
 ### Image & PDF Tools — All in Your Browser
 
@@ -184,6 +184,18 @@ Reduce image file size while maintaining reasonable visual quality.
 
 ---
 
+
+You can use **IMP Convetor locally on your phone without a server**.
+
+1. **Download the HTML file** from this repository.
+2. Open the downloaded `.html` file using a web browser.
+3. The application will run directly on your phone.
+4. You can process your images and PDFs locally.
+
+> 💡 **No internet connection or backend server is required after downloading the HTML file**, as long as all required resources are included in the file.
+
+
+
 ### 📏 Custom Image Size
 
 Create an image with exact dimensions and optional file-size limits.
@@ -196,3 +208,6 @@ Create an image with exact dimensions and optional file-size limits.
 1920 × 1080
 1200 × 630
 800 × 600
+
+
+You 
